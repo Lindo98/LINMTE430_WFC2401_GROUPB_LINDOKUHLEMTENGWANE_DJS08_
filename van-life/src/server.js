@@ -81,7 +81,6 @@ createServer({
     });
   },
 });
-import { createServer, Model } from "miragejs";
 
 createServer({
   models: {
